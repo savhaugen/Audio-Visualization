@@ -1,4 +1,4 @@
-# Audio Synth
+# Audio Visualization
 
 In this homework, you will build an audio synthesizer that plays and visualizes music.
 
