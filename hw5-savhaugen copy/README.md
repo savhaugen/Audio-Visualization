@@ -1,25 +1,25 @@
-# Audio Synth
+# Audio Visualization
+
+With this program I wanted to create a program to represent different sounds. 
 
 In this homework, you will build an audio synthesizer that plays and visualizes music.
 
 <img src="doc/images/kondo.png" width="49%"> <img src="doc/images/bach.png" width="49%">
 
-This homework serves several learning goals:
 
-- You’ll practice working with **many small, independent classes** in a heavily decomposed architecture. This whole assignment could be one unwieldy class, but instead you will implement it using many small ones. (There are 15 classes and interfaces in the full solution, not counting tests.) This is typical of software projects that (1) have multiple collaborators and/or (2) are planning for growth — and it is the approach you should bring to your project. How does this fit into the big picture of COMP 127?
-    - In earlier assignments, we gave you small class designs.
-    - In Breakout, you asked you to figure out a small class design on your own.
-    - In _this_ assignment, we give you a _large_ class design.
-    - For your final project, you will have to figure out a large class design on your own.
-- This assignment gives you a little more **practice with arrays and maps**.
-- Most importantly, the results are **fun**!
+## How it's Made:
+
+Java, 
 
 
-## Terminology and starting point
+
+This project is 
 
 We have given you some starter code that provides the following building blocks for building your music synthesizer.
 
-### The `audio` package
+### Lessons Learned
+
+This project taught me a lot about class decomposition and implementing arrays and maps. I learned how to store and transform data within a program.
 
 In the `audiosynth.audio` package, you will find these three types, plus some supporting code:
 
